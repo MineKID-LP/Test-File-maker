@@ -8,6 +8,11 @@
 3. Make sure the file does not exist
 4. Select an option
 5. Wait until finish
+
 ==================Quick fix================
 
 If it doesn't work, make sure your antivirus program isn't blocking the .exe file.
+
+==================License================
+
+Do whatever you want with the program, but please give me credit.
